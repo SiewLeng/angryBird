@@ -1,0 +1,38 @@
+#wrapper {
+    width: 1400px;
+    height: 695px;
+    position: relative;
+    background: yellow;
+}
+
+#drag {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-color: green;
+    left: 200px;
+    top:520px;
+    z-index: 3;
+}
+
+#block {
+    width: 65px;
+    height: 200px;
+    position: absolute;
+    background-color: brown;
+    left: 200px;
+    top:450px;
+    z-index: 1;
+}
+
+
+#line {
+    width: 10px;
+    height: 70px;
+    position: absolute;
+    left: 200px;
+    top: 450px;
+    background-color: black;
+    z-index: 4;
+}
+
