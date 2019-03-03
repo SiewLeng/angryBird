@@ -1,2 +1,2 @@
 # angryBird
-![Screenshot](Angry Bird.png)
+![Optional Text](Angry Bird.png)
